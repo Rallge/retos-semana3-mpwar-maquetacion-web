@@ -1,4 +1,5 @@
 :root{
+    border: 3px solid black;
     border-radius: 5rem;
 }
 
@@ -8,7 +9,7 @@ background-color: turquoise;
 }
 
 p{
-background-color: red;
+color: red;
 }
 
 footer>p{
