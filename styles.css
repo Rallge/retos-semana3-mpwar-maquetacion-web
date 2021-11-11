@@ -1,17 +1,5 @@
-header,section,footer{
-    border: 1px solid black;
-    border-radius: 5rem;
-}
 
-section{
-font-weight: bold;
-background-color: turquoise;
-}
-
-p{
-color: red;
-}
-
-footer>p{
-    background-color: white;
+button{
+    background-color: #6fa939;
+    border: 2px solid #4b7f2f;
 }
