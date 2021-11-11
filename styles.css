@@ -7,9 +7,9 @@ button{
     font-size: 2rem;
     font-weight: bold;
     cursor: pointer;
+    padding: 2rem;
 }
 
 section{
     margin: 2rem;
-    padding: 2rem;
 }
