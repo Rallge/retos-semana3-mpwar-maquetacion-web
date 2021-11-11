@@ -1,5 +1,5 @@
 
-input#check:active{
+input#check:after :active :checked{
     border-color: blueviolet;
     content: "X";
 }
