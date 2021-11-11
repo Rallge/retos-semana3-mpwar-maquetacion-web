@@ -1,0 +1,16 @@
+:root{
+    border-radius: 5rem;
+}
+
+section{
+font-weight: bold;
+background-color: turquoise;
+}
+
+p{
+background-color: red;
+}
+
+footer>p{
+    background-color: white;
+}
