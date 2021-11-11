@@ -1,5 +1,5 @@
-:root{
-    border: 3px solid black;
+header,section,footer{
+    border: 1px solid black;
     border-radius: 5rem;
 }
 
