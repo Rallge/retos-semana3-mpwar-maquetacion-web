@@ -1,3 +1,5 @@
-input{
+input#check::after{
     display:none;
+    border-color: blueviolet;
+    content: "X";
 }
